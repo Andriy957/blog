@@ -1,0 +1,22 @@
+.search {
+    margin-left: 450px;
+    margin-top: 30px;
+}
+
+.searchInput {
+    height: 40px;
+    width: 250px;
+    font-size: 17px;
+}
+
+.buttonSearch {
+    color: white;
+    font-size: 20px;
+    height: 45px;
+    width: 100px;
+    border: none;
+    background: blue;
+    cursor: pointer;
+    border-radius: 0px 15px 15px 0px;
+    outline: none;
+}

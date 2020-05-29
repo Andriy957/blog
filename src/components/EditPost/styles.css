@@ -1,0 +1,61 @@
+.formImage {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 270px;
+    position: fixed;
+    top: 100px;
+    left: 500px;
+    border: 2px solid Silver;
+    padding: 20px;
+    border-radius: 10px;
+    clear: both;
+    z-index: 100;
+    background: white;
+}
+
+.formImage input {
+    height: 25px;
+    width: 220px;
+    margin: 10px 0;
+}
+
+.formImage select {
+    height: 25px;
+    margin: 10px 0;
+}
+
+.formButtonImage button {
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    background: Silver;
+    border: none;
+    border-radius: 5px;
+}
+
+.formInputImage {
+    margin: 20px 0;
+}
+
+.formInputImage input {
+    height: 25px;
+}
+
+.formInputLabelImage {
+    margin-right: 15px;
+} 
+
+.button-delete-post {
+    width: 300px;
+    border: 2px solid grey;
+    z-index: 100;
+    position: fixed;
+    top: 100px;
+    left: 500px;
+    background: white;
+    padding: 20px;
+}
+.button-delete-post button {
+    margin-left: 20px;
+}

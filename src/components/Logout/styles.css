@@ -1,0 +1,14 @@
+.button-logout {
+    float: right;
+    margin: 10px 50px;
+}
+.button-logout button {
+    background: dimgrey;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 20px;
+}

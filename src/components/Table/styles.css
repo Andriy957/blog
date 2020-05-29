@@ -1,0 +1,45 @@
+.table {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 180px;
+}
+
+.table th, td {
+    padding: 5px 30px;
+}
+
+.table-head th {
+    font-size: 20px;
+}
+
+.table-body td {
+    font-size: 18px;
+}
+
+.th-id {
+    cursor: pointer;
+}
+
+.editButton {
+    margin-right: 10px;
+    border: none;
+    background: yellow;
+    width: 70px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.deleteButton {
+    border: none;
+    background: red;
+    width: 70px;
+    height: 25px;
+    color: white;
+    cursor: pointer;
+}
+
+.checkboxDelete {
+    cursor: pointer;
+    width: 18px;
+    height: 18px;
+}

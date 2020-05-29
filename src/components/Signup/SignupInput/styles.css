@@ -1,0 +1,13 @@
+.formInput {
+    margin: 30px 0;
+}
+.formInput input {
+    height: 25px;
+}
+.formInput-error {
+    color: red;
+    margin: 5px;
+}
+.formInput-label {
+    margin-right: 15px;
+} 

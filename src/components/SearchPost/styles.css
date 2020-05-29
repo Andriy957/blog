@@ -1,0 +1,10 @@
+.searchPost {
+    margin-left: 550px;
+    margin-top: 10px;
+}
+
+.searchInputPost {
+    height: 40px;
+    width: 250px;
+    font-size: 17px;
+}
